@@ -28,7 +28,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "stitch": "git://github.com/muffs/stitch#bd37c415bc7fc96991bbdb81bfd51017834ef7f7",
+    "stitch": "git://github.com/muffs/stitch#29797a836af22857e2ba79556d8ec4ec04d3be4f",
     "coffee-script": "~1.6.2",
     "async": "~0.2.9"
   },
